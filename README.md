@@ -7,7 +7,7 @@ Um bot simples feito com Node.js usando as bibliotecas:
 Discord.js,
 Quick.db
 <p align="center">
-O objetivo principal do bot é repreender quem fala palavrões no chat do discord utilizando um próprio filto!
+O objetivo principal do bot é repreender quem fala palavrões no chat do discord utilizando um filtro!
 <br><br><br>
 <img height="50" src="https://imgur.com/oZ5EgBe.png"  />
 </p>
